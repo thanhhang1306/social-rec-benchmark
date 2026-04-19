@@ -1,0 +1,2 @@
+Model,Dataset,Mode,dataset_type,seed,data_seed,total_epochs_trained,best_epoch,n_parameters,train_time_s,inference_time_s,best_valid_ndcg@10,recall@10,recall@20,ndcg@10,ndcg@20,mrr@10,mrr@20,precision@10,precision@20,hit@10,hit@20
+CSGCNNoWarmup,small_world_u2000_i2000_sp0.02_ns0.1,DEFAULT,synth,12,1,21,10,256128,5.772096872329712,0.06439566612243652,0.0257,0.0346,0.0606,0.025,0.0344,0.0389,0.0443,0.0114,0.0103,0.111,0.1905
