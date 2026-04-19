@@ -1,0 +1,2 @@
+Model,Dataset,Mode,dataset_type,seed,data_seed,total_epochs_trained,best_epoch,n_parameters,train_time_s,inference_time_s,best_valid_ndcg@10,recall@10,recall@20,ndcg@10,ndcg@20,mrr@10,mrr@20,precision@10,precision@20,hit@10,hit@20
+HAGNUniform,small_world_u500_i5000_sp0.01_ns0.1,DEFAULT,synth,12,2,17,6,350724,3.23756742477417,1.5145013332366943,0.2103,0.2149,0.2914,0.1976,0.2279,0.3394,0.3502,0.0844,0.0602,0.614,0.768
