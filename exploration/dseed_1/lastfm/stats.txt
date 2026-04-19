@@ -1,0 +1,14 @@
+dataset: lastfm
+n_interactions: 92834
+n_users: 1892
+n_items: 17632
+density: 0.2783%
+gini_user: 0.0186
+gini_item: 0.7301
+params: {}
+graph_nodes: 1892
+graph_edges: 25434
+avg_degree: 26.89
+max_degree: 238
+clustering: 0.1865
+lcc_size: 1843

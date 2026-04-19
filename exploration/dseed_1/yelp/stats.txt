@@ -1,0 +1,14 @@
+dataset: yelp
+n_interactions: 198397
+n_users: 16239
+n_items: 14284
+density: 0.0855%
+gini_user: 0.7240
+gini_item: 0.7050
+params: {}
+graph_nodes: 10580
+graph_edges: 158590
+avg_degree: 29.98
+max_degree: 2782
+clustering: 0.2265
+lcc_size: 10354

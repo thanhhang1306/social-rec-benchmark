@@ -1,0 +1,14 @@
+dataset: fake_users_u2000_i5000_sp0.01_ns0.1_fake0.4
+n_interactions: 107909
+n_users: 2000
+n_items: 5000
+density: 1.0791%
+gini_user: 0.2050
+gini_item: 0.1199
+params: {'n_users': 2000.0, 'n_items': 5000.0, 'sparsity': 0.01, 'noise': 0.1, 'fake': 0.4}
+graph_nodes: 2000
+graph_edges: 23440
+avg_degree: 23.44
+max_degree: 56
+clustering: 0.0056
+lcc_size: 2000

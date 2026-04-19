@@ -1,0 +1,14 @@
+dataset: echo_chamber_u2000_i2000_sp0.02_ns0.1
+n_interactions: 88954
+n_users: 2000
+n_items: 2000
+density: 2.2239%
+gini_user: 0.2751
+gini_item: 0.0949
+params: {'n_users': 2000.0, 'n_items': 2000.0, 'sparsity': 0.02, 'noise': 0.1}
+graph_nodes: 1997
+graph_edges: 11882
+avg_degree: 11.90
+max_degree: 30
+clustering: 0.0033
+lcc_size: 1997

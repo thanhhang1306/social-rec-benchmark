@@ -1,0 +1,14 @@
+dataset: douban-book
+n_interactions: 792062
+n_users: 13024
+n_items: 22347
+density: 0.2721%
+gini_user: 0.6360
+gini_item: 0.6242
+params: {}
+graph_nodes: 12748
+graph_edges: 169150
+avg_degree: 26.54
+max_degree: 3996
+clustering: 0.0685
+lcc_size: 12680

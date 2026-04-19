@@ -1,0 +1,14 @@
+dataset: scale_free_u2000_i10000_sp0.002_ns0.2
+n_interactions: 43473
+n_users: 2000
+n_items: 9887
+density: 0.2198%
+gini_user: 0.2806
+gini_item: 0.2565
+params: {'n_users': 2000.0, 'n_items': 10000.0, 'sparsity': 0.002, 'noise': 0.2}
+graph_nodes: 2000
+graph_edges: 11982
+avg_degree: 11.98
+max_degree: 314
+clustering: 0.0198
+lcc_size: 2000
