@@ -1,0 +1,2 @@
+Model,Dataset,Mode,dataset_type,seed,data_seed,total_epochs_trained,best_epoch,Best_Params,n_parameters,train_time_s,inference_time_s,best_valid_ndcg@10,recall@10,recall@20,ndcg@10,ndcg@20,mrr@10,mrr@20,precision@10,precision@20,hit@10,hit@20
+HAGN,douban-book,TUNED,real,12,1,155,144,"{'learning_rate': 0.005, 'n_layers': 4, 'reg_weight': 0.001}",1554820,416.04619693756104,0.4537622928619385,0.1235,0.1486,0.2099,0.1346,0.1509,0.2259,0.2342,0.0694,0.0515,0.4583,0.5772

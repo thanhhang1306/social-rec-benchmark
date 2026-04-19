@@ -1,0 +1,2 @@
+Model,Dataset,Mode,dataset_type,seed,data_seed,total_epochs_trained,best_epoch,Best_Params,n_parameters,train_time_s,inference_time_s,best_valid_ndcg@10,recall@10,recall@20,ndcg@10,ndcg@20,mrr@10,mrr@20,precision@10,precision@20,hit@10,hit@20
+CSGCN,douban-book,TUNED,real,123,1,118,107,"{'anneal_epochs': 50, 'learning_rate': 0.005, 'n_layers': 4, 'reg_weight': 0.001, 'warmup_epochs': 30}",1554816,352.4934551715851,0.29421377182006836,0.1077,0.1213,0.1793,0.1153,0.1305,0.2025,0.211,0.0637,0.0489,0.4088,0.5303

@@ -1,0 +1,3 @@
+dataset=douban-book
+lambda_social=24.360378
+lambda_raw=24.360378
