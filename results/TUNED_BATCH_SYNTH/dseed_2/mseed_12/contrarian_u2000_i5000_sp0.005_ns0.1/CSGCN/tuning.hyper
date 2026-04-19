@@ -1,0 +1,5 @@
+learning_rate choice [0.005]
+reg_weight choice [0.001, 0.0001, 1e-05]
+n_layers choice [2, 3, 4]
+warmup_epochs choice [10, 20, 30]
+anneal_epochs choice [20, 30, 50]

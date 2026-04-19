@@ -1,0 +1,2 @@
+Model,Dataset,Mode,dataset_type,seed,data_seed,total_epochs_trained,best_epoch,Best_Params,n_parameters,train_time_s,inference_time_s,best_valid_ndcg@10,recall@10,recall@20,ndcg@10,ndcg@20,mrr@10,mrr@20,precision@10,precision@20,hit@10,hit@20
+SimGCL,contrarian_u5000_i5000_sp0.01_ns0.1,TUNED,synth,123,2,369,356,"{'eps': 0.2, 'lambda': 0.1, 'learning_rate': 0.001, 'n_layers': 3, 'reg_weight': 0.0001, 'temperature': 0.2}",640128,557.3811492919922,0.25606417655944824,0.249,0.2973,0.3701,0.2717,0.2999,0.4193,0.427,0.1021,0.0669,0.6988,0.8102
