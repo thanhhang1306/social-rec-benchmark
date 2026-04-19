@@ -1,0 +1,2 @@
+Model,Dataset,Mode,dataset_type,seed,data_seed,total_epochs_trained,best_epoch,n_parameters,train_time_s,inference_time_s,best_valid_ndcg@10,recall@10,recall@20,ndcg@10,ndcg@20,mrr@10,mrr@20,precision@10,precision@20,hit@10,hit@20
+HAGNFixed,lastfm,DEFAULT,real,1,1,12,1,211588,3.2734296321868896,0.05213451385498047,0.1327,0.1807,0.2537,0.1475,0.1734,0.2182,0.2261,0.0579,0.0405,0.4179,0.5326
