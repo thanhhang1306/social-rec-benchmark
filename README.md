@@ -220,6 +220,7 @@ Training and post-processing entry points.
 - `run_tuned_pipeline.py` — runs RecBole's HyperTuning search over a curated grid per model, then trains the best configuration.
 - `process_results.py` — parses per-run RecBole / Slurm logs into `epoch_data.csv` and `final_metrics.csv`.
 - `process_aggregate.py` — concatenates every `final_metrics.csv` under `results/` into `results/all_results.csv`.
+- `process_final_comparison.py` — aggregates per-seed `final_metrics.csv` into cross-seed plots under `results/<batch>/final_comparison/<dataset>/`, covering model-seed variance, data-seed variance, variance decomposition, and training curves.
 - `line_graph_propagation.py` — computes per-user performance vs. chain position on the line-graph topology (thesis §4.4).
 
 ### `RecBole-GNN/`
@@ -270,6 +271,9 @@ python pipeline/process_results.py
 
 # collect every final_metrics.csv into results/all_results.csv
 python pipeline/process_aggregate.py
+
+# build cross-seed aggregation plots under results/<batch>/final_comparison/
+python pipeline/process_final_comparison.py
 ```
 
 ### Thesis figures
