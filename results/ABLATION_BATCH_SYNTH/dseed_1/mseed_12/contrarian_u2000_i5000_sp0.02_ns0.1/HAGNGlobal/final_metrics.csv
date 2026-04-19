@@ -1,0 +1,2 @@
+Model,Dataset,Mode,dataset_type,seed,data_seed,total_epochs_trained,best_epoch,n_parameters,train_time_s,inference_time_s,best_valid_ndcg@10,recall@10,recall@20,ndcg@10,ndcg@20,mrr@10,mrr@20,precision@10,precision@20,hit@10,hit@20
+HAGNGlobal,contrarian_u2000_i5000_sp0.02_ns0.1,DEFAULT,synth,12,1,14,3,448129,7.919932126998901,0.07490754127502441,0.0081,0.0055,0.0101,0.006,0.008,0.0155,0.0185,0.0055,0.0052,0.053,0.097
