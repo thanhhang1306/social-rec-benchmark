@@ -1,0 +1,14 @@
+dataset: partial_alignment_u2000_i10000_sp0.002_ns0.2
+n_interactions: 44357
+n_users: 2000
+n_items: 9892
+density: 0.2242%
+gini_user: 0.2756
+gini_item: 0.2577
+params: {'n_users': 2000.0, 'n_items': 10000.0, 'sparsity': 0.002, 'noise': 0.2}
+graph_nodes: 1994
+graph_edges: 11828
+avg_degree: 11.86
+max_degree: 30
+clustering: 0.0030
+lcc_size: 1994

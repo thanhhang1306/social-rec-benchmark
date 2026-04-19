@@ -1,0 +1,14 @@
+dataset: contrarian_u2000_i10000_sp0.002_ns0.2
+n_interactions: 44718
+n_users: 2000
+n_items: 9895
+density: 0.2260%
+gini_user: 0.2805
+gini_item: 0.2550
+params: {'n_users': 2000.0, 'n_items': 10000.0, 'sparsity': 0.002, 'noise': 0.2}
+graph_nodes: 1994
+graph_edges: 11828
+avg_degree: 11.86
+max_degree: 30
+clustering: 0.0030
+lcc_size: 1994

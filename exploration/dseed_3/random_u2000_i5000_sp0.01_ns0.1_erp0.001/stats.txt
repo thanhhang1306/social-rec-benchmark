@@ -1,0 +1,14 @@
+dataset: random_u2000_i5000_sp0.01_ns0.1_erp0.001
+n_interactions: 111296
+n_users: 2000
+n_items: 5000
+density: 1.1130%
+gini_user: 0.2774
+gini_item: 0.1193
+params: {'n_users': 2000.0, 'n_items': 5000.0, 'sparsity': 0.01, 'noise': 0.1}
+graph_nodes: 1727
+graph_edges: 3918
+avg_degree: 4.54
+max_degree: 16
+clustering: 0.0011
+lcc_size: 1582
