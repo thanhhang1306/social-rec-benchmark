@@ -1,0 +1,3 @@
+dataset=small_world_u2000_i5000_sp0.01_ns0.2
+lambda_social=3.130880
+lambda_raw=3.086218
