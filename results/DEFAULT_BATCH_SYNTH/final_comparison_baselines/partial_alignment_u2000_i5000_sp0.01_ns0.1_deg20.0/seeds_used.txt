@@ -1,0 +1,9 @@
+dseed_1:mseed_1/partial_alignment_u2000_i5000_sp0.01_ns0.1_deg20.0
+dseed_1:mseed_12/partial_alignment_u2000_i5000_sp0.01_ns0.1_deg20.0
+dseed_1:mseed_123/partial_alignment_u2000_i5000_sp0.01_ns0.1_deg20.0
+dseed_2:mseed_1/partial_alignment_u2000_i5000_sp0.01_ns0.1_deg20.0
+dseed_2:mseed_12/partial_alignment_u2000_i5000_sp0.01_ns0.1_deg20.0
+dseed_2:mseed_123/partial_alignment_u2000_i5000_sp0.01_ns0.1_deg20.0
+dseed_3:mseed_1/partial_alignment_u2000_i5000_sp0.01_ns0.1_deg20.0
+dseed_3:mseed_12/partial_alignment_u2000_i5000_sp0.01_ns0.1_deg20.0
+dseed_3:mseed_123/partial_alignment_u2000_i5000_sp0.01_ns0.1_deg20.0
