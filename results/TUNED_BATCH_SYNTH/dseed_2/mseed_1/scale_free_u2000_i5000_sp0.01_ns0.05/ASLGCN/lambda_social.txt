@@ -1,0 +1,3 @@
+dataset=scale_free_u2000_i5000_sp0.01_ns0.05
+lambda_social=3.006892
+lambda_raw=2.956182
