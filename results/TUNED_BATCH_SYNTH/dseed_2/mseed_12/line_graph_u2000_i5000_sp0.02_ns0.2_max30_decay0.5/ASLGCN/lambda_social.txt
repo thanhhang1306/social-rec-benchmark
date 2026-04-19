@@ -1,0 +1,3 @@
+dataset=line_graph_u2000_i5000_sp0.02_ns0.2_max30_decay0.5
+lambda_social=1.739901
+lambda_raw=1.546877
