@@ -1,0 +1,2 @@
+Model,Dataset,Mode,dataset_type,seed,total_epochs_trained,best_epoch,n_parameters,train_time_s,inference_time_s,best_valid_ndcg@10,recall@10,recall@20,ndcg@10,ndcg@20,mrr@10,mrr@20,precision@10,precision@20,hit@10,hit@20
+SimGCL,echo_chamber_u2000_i5000_sp0.003_ns0.1,DEFAULT,synth,12,273,262,447296,45.74803304672241,0.0656747817993164,0.7677,0.9574,0.9704,0.9336,0.9379,0.9536,0.9539,0.1261,0.0647,0.9915,0.9955
