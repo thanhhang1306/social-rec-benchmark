@@ -1,0 +1,3 @@
+dataset=partial_alignment_u2000_i5000_sp0.005_ns0.1
+lambda_social=2.040994
+lambda_raw=1.901847
