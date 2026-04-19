@@ -1,0 +1,2 @@
+Model,Dataset,Mode,dataset_type,seed,data_seed,total_epochs_trained,best_epoch,Best_Params,n_parameters,train_time_s,inference_time_s,best_valid_ndcg@10,recall@10,recall@20,ndcg@10,ndcg@20,mrr@10,mrr@20,precision@10,precision@20,hit@10,hit@20
+BPR,echo_chamber_u2000_i5000_sp0.01_ns0.5,TUNED,synth,123,1,58,44,"{'learning_rate': 0.001, 'weight_decay': 1e-05}",448128,13.37362027168274,0.06716060638427734,0.0025,0.0016,0.0037,0.0012,0.002,0.0024,0.0031,0.001,0.001,0.01,0.02

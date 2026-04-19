@@ -1,0 +1,4 @@
+learning_rate choice [0.005, 0.001, 0.0005, 0.0001]
+reg_weight choice [0.0001, 1e-05]
+n_layers choice [1, 2, 3]
+ssl_reg choice [1e-06, 5e-06, 1e-05, 5e-05, 0.0001]
