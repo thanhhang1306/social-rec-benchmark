@@ -1,0 +1,2 @@
+Model,Dataset,Mode,dataset_type,seed,data_seed,total_epochs_trained,best_epoch,n_parameters,train_time_s,inference_time_s,best_valid_ndcg@10,recall@10,recall@20,ndcg@10,ndcg@20,mrr@10,mrr@20,precision@10,precision@20,hit@10,hit@20
+CSGCNNoWarmup,yelp,DEFAULT,real,123,1,12,1,417984,4.128293752670288,0.0889749526977539,0.028,0.049,0.0842,0.0303,0.0404,0.0381,0.0424,0.0122,0.0102,0.1078,0.171

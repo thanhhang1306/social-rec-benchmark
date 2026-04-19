@@ -1,0 +1,2 @@
+Model,Dataset,Mode,dataset_type,seed,data_seed,total_epochs_trained,best_epoch,n_parameters,train_time_s,inference_time_s,best_valid_ndcg@10,recall@10,recall@20,ndcg@10,ndcg@20,mrr@10,mrr@20,precision@10,precision@20,hit@10,hit@20
+ASLGCNSymmetric,yelp,DEFAULT,real,123,1,12,1,417985,4.764869451522827,0.10445022583007812,0.0311,0.0499,0.0857,0.0296,0.0398,0.0363,0.0405,0.0122,0.0101,0.1064,0.1675
