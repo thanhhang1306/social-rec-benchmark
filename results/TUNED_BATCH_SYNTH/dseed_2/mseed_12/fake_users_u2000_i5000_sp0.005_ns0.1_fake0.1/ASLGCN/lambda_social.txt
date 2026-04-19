@@ -1,0 +1,3 @@
+dataset=fake_users_u2000_i5000_sp0.005_ns0.1_fake0.1
+lambda_social=0.182659
+lambda_raw=-1.607417
