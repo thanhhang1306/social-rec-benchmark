@@ -1,0 +1,25 @@
+{
+  "dataset": "echo_chamber_u2000_i10000_sp0.01_ns0.1",
+  "seed": 3,
+  "topology": "echo_chamber",
+  "connected_cosine_mean": 0.4803040846801092,
+  "connected_cosine_std": 0.566119388123673,
+  "connected_cosine_min": -0.7812516601225378,
+  "connected_cosine_max": 1.0000000000000002,
+  "random_cosine_mean": 0.04576710652420609,
+  "random_cosine_std": 0.43224352858145687,
+  "signal_gap": 0.43453697815590314,
+  "n_communities": 19,
+  "community_sizes_top5": [
+    303,
+    274,
+    252,
+    227,
+    227
+  ],
+  "connected_jaccard_mean": 0.005466123527695132,
+  "connected_jaccard_std": 0.0055520339457958735,
+  "random_jaccard_mean": 0.005034720205502121,
+  "random_jaccard_std": 0.0048394438580603655,
+  "jaccard_signal_gap": 0.00043140332219301133
+}
