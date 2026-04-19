@@ -1,0 +1,2 @@
+Model,Dataset,Mode,dataset_type,seed,data_seed,total_epochs_trained,best_epoch,Best_Params,n_parameters,train_time_s,inference_time_s,best_valid_ndcg@10,recall@10,recall@20,ndcg@10,ndcg@20,mrr@10,mrr@20,precision@10,precision@20,hit@10,hit@20
+ASLGCN,echo_chamber_u2000_i5000_sp0.01_ns0.1_deg2.0,TUNED,synth,123,2,44,33,"{'learning_rate': 0.005, 'n_layers': 4, 'reg_weight': 0.0001, 'social_layers': 3}",448129,16.897659301757812,0.0714268684387207,0.036,0.0434,0.0682,0.035,0.0442,0.0635,0.0693,0.0175,0.0138,0.164,0.2495

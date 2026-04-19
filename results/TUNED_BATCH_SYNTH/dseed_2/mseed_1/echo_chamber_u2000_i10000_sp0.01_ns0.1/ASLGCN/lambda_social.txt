@@ -1,0 +1,3 @@
+dataset=echo_chamber_u2000_i10000_sp0.01_ns0.1
+lambda_social=5.358319
+lambda_raw=5.353600

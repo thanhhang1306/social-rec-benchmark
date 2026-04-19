@@ -1,0 +1,2 @@
+Model,Dataset,Mode,dataset_type,seed,data_seed,total_epochs_trained,best_epoch,Best_Params,n_parameters,train_time_s,inference_time_s,best_valid_ndcg@10,recall@10,recall@20,ndcg@10,ndcg@20,mrr@10,mrr@20,precision@10,precision@20,hit@10,hit@20
+HAGN,echo_chamber_u2000_i5000_sp0.01_ns0.2,TUNED,synth,1,2,46,35,"{'learning_rate': 0.005, 'n_layers': 3, 'reg_weight': 1e-05}",448132,14.230836629867554,0.07098150253295898,0.0265,0.0357,0.0556,0.0285,0.0358,0.0509,0.0557,0.0131,0.0105,0.123,0.194
