@@ -1,0 +1,2 @@
+Model,Dataset,Mode,dataset_type,seed,data_seed,total_epochs_trained,best_epoch,n_parameters,train_time_s,inference_time_s,best_valid_ndcg@10,recall@10,recall@20,ndcg@10,ndcg@20,mrr@10,mrr@20,precision@10,precision@20,hit@10,hit@20
+HAGNGlobal,echo_chamber_u2000_i10000_sp0.01_ns0.1,DEFAULT,synth,123,2,13,2,768129,9.007123231887817,3.4449777603149414,0.0072,0.0067,0.0115,0.007,0.009,0.018,0.0208,0.0056,0.0052,0.056,0.0975
