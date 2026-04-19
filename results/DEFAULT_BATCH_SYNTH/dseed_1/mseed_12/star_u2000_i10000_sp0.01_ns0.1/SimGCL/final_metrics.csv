@@ -1,0 +1,2 @@
+Model,Dataset,Mode,dataset_type,seed,total_epochs_trained,best_epoch,n_parameters,train_time_s,inference_time_s,best_valid_ndcg@10,recall@10,recall@20,ndcg@10,ndcg@20,mrr@10,mrr@20,precision@10,precision@20,hit@10,hit@20
+SimGCL,star_u2000_i10000_sp0.01_ns0.1,DEFAULT,synth,12,400,389,768128,414.46997833251953,0.08042764663696289,0.3096,0.3338,0.4047,0.3848,0.4105,0.6611,0.6657,0.2343,0.1502,0.882,0.9455
