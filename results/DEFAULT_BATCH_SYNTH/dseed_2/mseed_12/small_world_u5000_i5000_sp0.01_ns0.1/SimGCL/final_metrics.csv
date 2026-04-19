@@ -1,0 +1,2 @@
+Model,Dataset,Mode,dataset_type,seed,data_seed,total_epochs_trained,best_epoch,n_parameters,train_time_s,inference_time_s,best_valid_ndcg@10,recall@10,recall@20,ndcg@10,ndcg@20,mrr@10,mrr@20,precision@10,precision@20,hit@10,hit@20
+SimGCL,small_world_u5000_i5000_sp0.01_ns0.1,DEFAULT,synth,12,2,263,251,640128,393.27688121795654,0.14742565155029297,0.2433,0.2989,0.3694,0.2746,0.3023,0.4216,0.4292,0.1015,0.0664,0.697,0.8064

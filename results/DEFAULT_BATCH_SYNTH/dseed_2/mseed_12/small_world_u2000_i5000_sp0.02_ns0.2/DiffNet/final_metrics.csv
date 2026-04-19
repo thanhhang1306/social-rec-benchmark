@@ -1,0 +1,2 @@
+Model,Dataset,Mode,dataset_type,seed,data_seed,total_epochs_trained,best_epoch,n_parameters,train_time_s,inference_time_s,best_valid_ndcg@10,recall@10,recall@20,ndcg@10,ndcg@20,mrr@10,mrr@20,precision@10,precision@20,hit@10,hit@20
+DiffNet,small_world_u2000_i5000_sp0.02_ns0.2,DEFAULT,synth,12,2,13,1,448128,6.317237615585327,0.07533073425292969,0.0027,0.0027,0.0053,0.0027,0.0038,0.0064,0.008,0.0027,0.0026,0.027,0.05
