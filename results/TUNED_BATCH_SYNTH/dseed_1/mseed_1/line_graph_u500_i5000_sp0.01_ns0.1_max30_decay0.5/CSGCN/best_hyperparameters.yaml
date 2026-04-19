@@ -1,0 +1,5 @@
+anneal_epochs: 30
+learning_rate: 0.0001
+n_layers: 4
+reg_weight: 1.0e-05
+warmup_epochs: 20
