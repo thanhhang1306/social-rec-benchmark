@@ -1,0 +1,17 @@
+{
+  "dataset": "star_u5000_i5000_sp0.01_ns0.1",
+  "seed": 2,
+  "topology": "star",
+  "connected_cosine_mean": 0.004670465709654007,
+  "connected_cosine_std": 0.31829532680587247,
+  "connected_cosine_min": -0.7992615389040426,
+  "connected_cosine_max": 0.8294906071418247,
+  "random_cosine_mean": 0.014188868262179683,
+  "random_cosine_std": 0.3240009765555392,
+  "signal_gap": -0.009518402552525677,
+  "connected_jaccard_mean": 0.0051854667845209175,
+  "connected_jaccard_std": 0.007188994803347851,
+  "random_jaccard_mean": 0.005165791775922443,
+  "random_jaccard_std": 0.0065648456356093956,
+  "jaccard_signal_gap": 1.967500859847461e-05
+}

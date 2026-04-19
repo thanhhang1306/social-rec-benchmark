@@ -1,0 +1,17 @@
+{
+  "dataset": "small_world_u2000_i5000_sp0.02_ns0.1",
+  "seed": 2,
+  "topology": "small_world",
+  "connected_cosine_mean": -0.012209323097440645,
+  "connected_cosine_std": 0.3183009034228079,
+  "connected_cosine_min": -0.8407599580090258,
+  "connected_cosine_max": 0.8021209173284524,
+  "random_cosine_mean": 0.005214632467042287,
+  "random_cosine_std": 0.30810991464622295,
+  "signal_gap": -0.01742395556448293,
+  "connected_jaccard_mean": 0.009952897987148246,
+  "connected_jaccard_std": 0.007479593414366464,
+  "random_jaccard_mean": 0.009993298134424615,
+  "random_jaccard_std": 0.0077103365127724225,
+  "jaccard_signal_gap": -4.040014727636938e-05
+}
