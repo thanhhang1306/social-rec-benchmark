@@ -1,0 +1,3 @@
+dataset=random_u2000_i5000_sp0.05_ns0.1
+lambda_social=5.154212
+lambda_raw=5.148420
