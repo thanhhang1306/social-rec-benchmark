@@ -1,0 +1,5 @@
+embedding_size: 64
+n_layers: 3
+social_layers: 2
+reg_weight: 1e-4
+require_pow: False

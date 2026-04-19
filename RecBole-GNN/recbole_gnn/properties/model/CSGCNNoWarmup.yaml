@@ -1,0 +1,6 @@
+embedding_size: 64
+n_layers: 3
+reg_weight: 1e-4
+warmup_epochs: 0
+anneal_epochs: 30
+require_pow: False
