@@ -1,0 +1,2 @@
+Model,Dataset,Mode,dataset_type,seed,data_seed,total_epochs_trained,best_epoch,n_parameters,train_time_s,inference_time_s,best_valid_ndcg@10,recall@10,recall@20,ndcg@10,ndcg@20,mrr@10,mrr@20,precision@10,precision@20,hit@10,hit@20
+ASLGCNSymmetric,partial_alignment_u2000_i5000_sp0.01_ns0.05,DEFAULT,synth,123,3,24,13,448129,14.266006708145142,2.1478381156921387,0.0263,0.0331,0.0507,0.0262,0.0331,0.0452,0.0498,0.012,0.0102,0.1155,0.1845
