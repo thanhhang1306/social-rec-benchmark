@@ -1,0 +1,10 @@
+env/
+log/
+log_tensorboard/
+logs/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.DS_Store
+.ruff_cache/
