@@ -1,5 +1,7 @@
 # Social Recommendation Benchmark
 
+Codebase for "Rethinking the Role of Social Signal in Graph-Based Recommendation", by Hang Pham. 
+
 A benchmarking framework for social recommendation models on both real-world and synthetic graph datasets. Evaluates how different social network topologies affect recommendation quality and how well models exploit social signals.
 
 ---
