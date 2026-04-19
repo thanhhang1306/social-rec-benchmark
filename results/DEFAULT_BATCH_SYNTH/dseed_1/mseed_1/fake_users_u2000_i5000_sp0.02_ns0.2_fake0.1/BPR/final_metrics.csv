@@ -1,0 +1,2 @@
+Model,Dataset,Mode,dataset_type,seed,total_epochs_trained,best_epoch,n_parameters,train_time_s,inference_time_s,best_valid_ndcg@10,recall@10,recall@20,ndcg@10,ndcg@20,mrr@10,mrr@20,precision@10,precision@20,hit@10,hit@20
+BPR,fake_users_u2000_i5000_sp0.02_ns0.2_fake0.1,DEFAULT,synth,1,27,7,448128,10.545545816421509,0.06554722785949707,0.0026,0.0024,0.0039,0.0028,0.0034,0.0075,0.0086,0.0027,0.0022,0.0265,0.0435
