@@ -1,0 +1,2 @@
+Model,Dataset,Mode,dataset_type,seed,data_seed,total_epochs_trained,best_epoch,n_parameters,train_time_s,inference_time_s,best_valid_ndcg@10,recall@10,recall@20,ndcg@10,ndcg@20,mrr@10,mrr@20,precision@10,precision@20,hit@10,hit@20
+MHCN,scale_free_u2000_i5000_sp0.01_ns0.3,DEFAULT,synth,123,3,14,3,481408,8.787724018096924,0.0766592025756836,0.2186,0.2501,0.3273,0.2276,0.2573,0.3759,0.3838,0.093,0.0633,0.6645,0.779
