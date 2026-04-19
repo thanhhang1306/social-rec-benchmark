@@ -1,0 +1,25 @@
+{
+  "dataset": "partial_alignment_u2000_i5000_sp0.01_ns0.1_sd9",
+  "seed": 1,
+  "topology": "partial_alignment",
+  "connected_cosine_mean": 0.4075974716274657,
+  "connected_cosine_std": 0.5221668522381129,
+  "connected_cosine_min": -0.7697982252371449,
+  "connected_cosine_max": 0.9999989705473407,
+  "random_cosine_mean": 0.09592951888990718,
+  "random_cosine_std": 0.41051132150491,
+  "signal_gap": 0.3116679527375585,
+  "n_communities": 18,
+  "community_sizes_top5": [
+    290,
+    261,
+    249,
+    209,
+    182
+  ],
+  "connected_jaccard_mean": 0.005623488771719722,
+  "connected_jaccard_std": 0.007042946439991679,
+  "random_jaccard_mean": 0.004884189045138547,
+  "random_jaccard_std": 0.006679147347845554,
+  "jaccard_signal_gap": 0.0007392997265811751
+}

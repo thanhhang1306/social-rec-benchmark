@@ -1,0 +1,17 @@
+{
+  "dataset": "line_graph_u2000_i5000_sp0.005_ns0.1_max30_decay0.5",
+  "seed": 1,
+  "topology": "line_graph",
+  "connected_cosine_mean": 0.01877338342622411,
+  "connected_cosine_std": 0.30603018770044405,
+  "connected_cosine_min": -0.7926542132627776,
+  "connected_cosine_max": 0.765401145484498,
+  "random_cosine_mean": 0.003555937959827745,
+  "random_cosine_std": 0.3012985217260824,
+  "signal_gap": 0.015217445466396364,
+  "connected_jaccard_mean": 0.001613442475659758,
+  "connected_jaccard_std": 0.006319782273428951,
+  "random_jaccard_mean": 0.0020758188531454723,
+  "random_jaccard_std": 0.007362334707586194,
+  "jaccard_signal_gap": -0.00046237637748571436
+}

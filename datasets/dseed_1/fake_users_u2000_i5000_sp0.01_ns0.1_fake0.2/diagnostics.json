@@ -1,0 +1,17 @@
+{
+  "dataset": "fake_users_u2000_i5000_sp0.01_ns0.1_fake0.2",
+  "seed": 1,
+  "topology": "fake_users",
+  "connected_cosine_mean": -0.019254012603054274,
+  "connected_cosine_std": 0.3273700031474181,
+  "connected_cosine_min": -0.8333380349068108,
+  "connected_cosine_max": 0.8062292426453701,
+  "random_cosine_mean": -0.02092261762219073,
+  "random_cosine_std": 0.3501472953176273,
+  "signal_gap": 0.0016686050191364564,
+  "connected_jaccard_mean": 0.005008136692475477,
+  "connected_jaccard_std": 0.006812749033225616,
+  "random_jaccard_mean": 0.005081148491200201,
+  "random_jaccard_std": 0.007065565598647624,
+  "jaccard_signal_gap": -7.301179872472394e-05
+}

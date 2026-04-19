@@ -1,0 +1,24 @@
+{
+  "dataset": "contrarian_u5000_i5000_sp0.01_ns0.1",
+  "seed": 1,
+  "topology": "contrarian",
+  "connected_cosine_mean": -0.25813613859849954,
+  "connected_cosine_std": 0.9429052004173337,
+  "connected_cosine_min": -0.9966806454071472,
+  "connected_cosine_max": 0.9959197526989384,
+  "random_cosine_mean": 0.027372619192225528,
+  "random_cosine_std": 0.9782613596198247,
+  "signal_gap": -0.28550875779072504,
+  "cross_group_edges": 9205,
+  "within_group_edges": 5533,
+  "impurity_pct": 37.542407382277105,
+  "group_sizes": [
+    2051,
+    2949
+  ],
+  "connected_jaccard_mean": 0.005700388688120335,
+  "connected_jaccard_std": 0.007067804986850518,
+  "random_jaccard_mean": 0.005177443752974148,
+  "random_jaccard_std": 0.0074474249169101175,
+  "jaccard_signal_gap": 0.0005229449351461871
+}

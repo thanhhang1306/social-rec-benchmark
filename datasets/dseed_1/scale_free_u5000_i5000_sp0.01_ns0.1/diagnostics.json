@@ -1,0 +1,17 @@
+{
+  "dataset": "scale_free_u5000_i5000_sp0.01_ns0.1",
+  "seed": 1,
+  "topology": "scale_free",
+  "connected_cosine_mean": 0.005404411729270486,
+  "connected_cosine_std": 0.3107951498881075,
+  "connected_cosine_min": -0.815484884802562,
+  "connected_cosine_max": 0.7863737570941104,
+  "random_cosine_mean": 0.006697930062563786,
+  "random_cosine_std": 0.2995157533696423,
+  "signal_gap": -0.0012935183332933005,
+  "connected_jaccard_mean": 0.004328546419843587,
+  "connected_jaccard_std": 0.006208907836242402,
+  "random_jaccard_mean": 0.005297518278569387,
+  "random_jaccard_std": 0.007146651321841017,
+  "jaccard_signal_gap": -0.0009689718587258004
+}
