@@ -221,7 +221,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     smoke_dir = "/tmp/smoke_test_runs"
-    print(f"\n=== Smoke test: {args.models} on [{args.dataset}] ===\n")
+    print(f"\nSmoke test: {args.models} on [{args.dataset}]\n")
 
     results = {}
     for m in args.models:
@@ -230,7 +230,7 @@ if __name__ == "__main__":
 
     passed = [m for m, ok in results.items() if ok]
     failed = [m for m, ok in results.items() if not ok]
-    print(f"\n=== Results: {len(passed)}/{len(args.models)} passed ===")
+    print(f"\nResults: {len(passed)}/{len(args.models)} passed")
     if failed:
         print(f"  FAILED: {failed}")
         sys.exit(1)
