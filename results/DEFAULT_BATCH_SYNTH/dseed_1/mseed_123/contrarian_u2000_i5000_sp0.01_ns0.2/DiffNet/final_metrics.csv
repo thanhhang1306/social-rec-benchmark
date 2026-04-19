@@ -1,0 +1,2 @@
+Model,Dataset,Mode,dataset_type,seed,data_seed,total_epochs_trained,best_epoch,n_parameters,train_time_s,inference_time_s,best_valid_ndcg@10,recall@10,recall@20,ndcg@10,ndcg@20,mrr@10,mrr@20,precision@10,precision@20,hit@10,hit@20
+DiffNet,contrarian_u2000_i5000_sp0.01_ns0.2,DEFAULT,synth,123,1,61,47,448128,17.13231873512268,0.10010290145874023,0.0039,0.0032,0.0059,0.0022,0.0032,0.004,0.0048,0.0014,0.0013,0.014,0.0265
