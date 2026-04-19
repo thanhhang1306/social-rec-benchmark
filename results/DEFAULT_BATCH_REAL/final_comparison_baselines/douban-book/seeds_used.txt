@@ -1,0 +1,3 @@
+dseed_1:mseed_1/douban-book
+dseed_1:mseed_12/douban-book
+dseed_1:mseed_123/douban-book
