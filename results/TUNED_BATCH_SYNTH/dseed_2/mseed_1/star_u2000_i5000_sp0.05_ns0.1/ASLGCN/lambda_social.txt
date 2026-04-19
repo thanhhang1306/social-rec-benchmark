@@ -1,0 +1,3 @@
+dataset=star_u2000_i5000_sp0.05_ns0.1
+lambda_social=5.741190
+lambda_raw=5.737974

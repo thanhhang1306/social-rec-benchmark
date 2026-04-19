@@ -1,0 +1,2 @@
+Model,Dataset,Mode,dataset_type,seed,data_seed,total_epochs_trained,best_epoch,Best_Params,n_parameters,train_time_s,inference_time_s,best_valid_ndcg@10,recall@10,recall@20,ndcg@10,ndcg@20,mrr@10,mrr@20,precision@10,precision@20,hit@10,hit@20
+MHCN,star_u2000_i5000_sp0.003_ns0.1,TUNED,synth,123,2,14,3,"{'learning_rate': 0.001, 'n_layers': 3, 'reg_weight': 0.0001, 'ssl_reg': 1e-06}",480576,3.074228286743164,0.07398605346679688,0.5565,0.7198,0.779,0.6363,0.653,0.6554,0.6592,0.091,0.0502,0.7984,0.8539
