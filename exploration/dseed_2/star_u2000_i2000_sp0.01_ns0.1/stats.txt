@@ -1,0 +1,14 @@
+dataset: star_u2000_i2000_sp0.01_ns0.1
+n_interactions: 44984
+n_users: 2000
+n_items: 2000
+density: 1.1246%
+gini_user: 0.2799
+gini_item: 0.1201
+params: {'n_users': 2000.0, 'n_items': 2000.0, 'sparsity': 0.01, 'noise': 0.1}
+graph_nodes: 2000
+graph_edges: 3998
+avg_degree: 4.00
+max_degree: 3998
+clustering: 0.0000
+lcc_size: 2000
