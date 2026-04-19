@@ -1,0 +1,2 @@
+Model,Dataset,Mode,dataset_type,seed,total_epochs_trained,best_epoch,n_parameters,train_time_s,inference_time_s,best_valid_ndcg@10,recall@10,recall@20,ndcg@10,ndcg@20,mrr@10,mrr@20,precision@10,precision@20,hit@10,hit@20
+LightGCN,line_graph_u2000_i5000_sp0.003_ns0.1_max30_decay0.5,DEFAULT,synth,1,43,32,447872,6.703343868255615,0.06764459609985352,0.2648,0.3909,0.4736,0.2924,0.3167,0.2988,0.3063,0.0541,0.0344,0.4992,0.6068
