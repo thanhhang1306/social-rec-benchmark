@@ -1,0 +1,2 @@
+Model,Dataset,Mode,dataset_type,seed,data_seed,total_epochs_trained,best_epoch,Best_Params,n_parameters,train_time_s,inference_time_s,best_valid_ndcg@10,recall@10,recall@20,ndcg@10,ndcg@20,mrr@10,mrr@20,precision@10,precision@20,hit@10,hit@20
+DiffNet,contrarian_u2000_i5000_sp0.01_ns0.2,TUNED,synth,1,1,13,2,"{'learning_rate': 0.005, 'n_layers': 1, 'reg_weight': 1e-05}",448128,3.1448824405670166,0.0669243335723877,0.004,0.005,0.0084,0.004,0.0054,0.0081,0.0094,0.0025,0.0022,0.0255,0.0435

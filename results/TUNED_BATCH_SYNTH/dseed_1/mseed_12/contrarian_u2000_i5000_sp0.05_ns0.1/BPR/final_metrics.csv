@@ -1,0 +1,2 @@
+Model,Dataset,Mode,dataset_type,seed,data_seed,total_epochs_trained,best_epoch,Best_Params,n_parameters,train_time_s,inference_time_s,best_valid_ndcg@10,recall@10,recall@20,ndcg@10,ndcg@20,mrr@10,mrr@20,precision@10,precision@20,hit@10,hit@20
+BPR,contrarian_u2000_i5000_sp0.05_ns0.1,TUNED,synth,12,1,38,27,"{'learning_rate': 0.0005, 'weight_decay': 1e-05}",448128,32.08199501037598,0.06768655776977539,0.0112,0.004,0.0074,0.0109,0.0107,0.031,0.0362,0.0109,0.01,0.1005,0.177
