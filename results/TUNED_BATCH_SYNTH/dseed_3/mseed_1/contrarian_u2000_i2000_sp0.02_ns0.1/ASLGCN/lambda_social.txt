@@ -1,0 +1,3 @@
+dataset=contrarian_u2000_i2000_sp0.02_ns0.1
+lambda_social=4.243964
+lambda_raw=4.229509
