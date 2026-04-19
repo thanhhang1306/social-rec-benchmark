@@ -1,0 +1,2 @@
+Model,Dataset,Mode,dataset_type,seed,data_seed,total_epochs_trained,best_epoch,Best_Params,n_parameters,train_time_s,inference_time_s,best_valid_ndcg@10,recall@10,recall@20,ndcg@10,ndcg@20,mrr@10,mrr@20,precision@10,precision@20,hit@10,hit@20
+CSGCN,small_world_u2000_i5000_sp0.01_ns0.05,TUNED,synth,12,3,12,1,"{'anneal_epochs': 20, 'learning_rate': 0.005, 'n_layers': 4, 'reg_weight': 0.001, 'warmup_epochs': 10}",448128,3.7246217727661133,0.057093143463134766,0.0178,0.0244,0.0404,0.0188,0.0248,0.0319,0.0358,0.0091,0.0077,0.087,0.1435
