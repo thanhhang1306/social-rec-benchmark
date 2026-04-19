@@ -1,0 +1,3 @@
+dataset=lastfm
+lambda_social=4.346188
+lambda_raw=4.333147
