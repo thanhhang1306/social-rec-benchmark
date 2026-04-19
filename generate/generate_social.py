@@ -286,7 +286,7 @@ def main():
     print("[1/4] Building ER random graph...")
     G = make_er_graph(args.n_users, avg_degree=args.avg_degree)
 
-    print("[2/4] Analysing graph structure...")
+    print("[2/4] Analyzing graph structure...")
     if args.topology in ("echo_chamber", "partial_alignment"):
         communities = detect_communities(G)
     elif args.topology == "contrarian":

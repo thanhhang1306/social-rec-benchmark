@@ -138,7 +138,7 @@ def fig_degree_distributions():
         color = GROUP_COLORS[group]
 
         if topo_key == "star":
-            # star degree is two-point (hub vs leaves) — labelled bars read better than a histogram
+            # star degree is two-point (hub vs leaves) — labeled bars read better than a histogram
             counts = Counter(deg)
             degrees = sorted(counts.keys())
             freqs = [counts[d] for d in degrees]
