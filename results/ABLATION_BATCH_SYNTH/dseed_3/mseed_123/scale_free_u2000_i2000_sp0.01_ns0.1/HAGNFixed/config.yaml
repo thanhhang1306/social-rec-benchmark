@@ -1,0 +1,54 @@
+ITEM_ID_FIELD: item_id
+RATING_FIELD: null
+USER_ID_FIELD: user_id
+checkpoint_dir: /n/fs/recbench/new_rec/results/ABLATION_BATCH_SYNTH/dseed_3/mseed_123/scale_free_u2000_i2000_sp0.01_ns0.1/HAGNFixed/checkpoints
+data_path: ./datasets/dseed_3
+embedding_size: 64
+epochs: 500
+eval_args:
+  group_by: user
+  mode:
+    test: full
+    valid: full
+  order: RO
+  split:
+    RS:
+    - 0.8
+    - 0.1
+    - 0.1
+eval_batch_size: 40960000
+eval_step: 1
+fields_in_same_space:
+- - user_id
+  - source_id
+  - target_id
+item_inter_num_interval: '[1,inf)'
+load_col:
+  inter:
+  - user_id
+  - item_id
+  net:
+  - source_id
+  - target_id
+metrics:
+- Recall
+- NDCG
+- MRR
+- Precision
+- Hit
+n_layers: 3
+net_file_extension: .net
+require_pow: false
+seed: 123
+social_id_field: source_id
+stopping_step: 10
+topk:
+- 10
+- 20
+train_batch_size: 4096
+train_neg_sample_args:
+  distribution: uniform
+  dynamic: false
+  sample_num: 1
+user_inter_num_interval: '[3,inf)'
+valid_metric: NDCG@10
