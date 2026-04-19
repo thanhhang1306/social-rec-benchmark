@@ -1,0 +1,2 @@
+Model,Dataset,Mode,dataset_type,seed,data_seed,total_epochs_trained,best_epoch,Best_Params,n_parameters,train_time_s,inference_time_s,best_valid_ndcg@10,recall@10,recall@20,ndcg@10,ndcg@20,mrr@10,mrr@20,precision@10,precision@20,hit@10,hit@20
+HAGN,small_world_u2000_i5000_sp0.003_ns0.1,TUNED,synth,123,2,14,3,"{'learning_rate': 0.005, 'n_layers': 4, 'reg_weight': 0.0001}",447428,1.9441688060760498,0.07109689712524414,0.3365,0.4884,0.5938,0.3547,0.3829,0.3291,0.3373,0.057,0.0352,0.547,0.6635
