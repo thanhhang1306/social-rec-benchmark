@@ -1,0 +1,2 @@
+Model,Dataset,Mode,dataset_type,seed,data_seed,total_epochs_trained,best_epoch,n_parameters,train_time_s,inference_time_s,best_valid_ndcg@10,recall@10,recall@20,ndcg@10,ndcg@20,mrr@10,mrr@20,precision@10,precision@20,hit@10,hit@20
+CSGCNNoWarmup,douban-book,DEFAULT,real,12,1,416,405,1554816,977.5979228019714,0.29787516593933105,0.1047,0.1227,0.1813,0.1138,0.1297,0.2015,0.2098,0.062,0.0479,0.4139,0.5338

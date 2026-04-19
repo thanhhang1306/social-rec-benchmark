@@ -1,0 +1,2 @@
+Model,Dataset,Mode,dataset_type,seed,data_seed,total_epochs_trained,best_epoch,n_parameters,train_time_s,inference_time_s,best_valid_ndcg@10,recall@10,recall@20,ndcg@10,ndcg@20,mrr@10,mrr@20,precision@10,precision@20,hit@10,hit@20
+HAGNFixed,douban-book,DEFAULT,real,123,1,423,412,1554820,1007.4022288322449,0.45736098289489746,0.1049,0.1229,0.1805,0.1143,0.1295,0.2004,0.2084,0.0636,0.0483,0.4135,0.5295
