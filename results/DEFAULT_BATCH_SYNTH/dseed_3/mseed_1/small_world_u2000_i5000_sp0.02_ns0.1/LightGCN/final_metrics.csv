@@ -1,0 +1,2 @@
+Model,Dataset,Mode,dataset_type,seed,data_seed,total_epochs_trained,best_epoch,n_parameters,train_time_s,inference_time_s,best_valid_ndcg@10,recall@10,recall@20,ndcg@10,ndcg@20,mrr@10,mrr@20,precision@10,precision@20,hit@10,hit@20
+LightGCN,small_world_u2000_i5000_sp0.02_ns0.1,DEFAULT,synth,1,3,17,6,448128,9.019119501113892,0.07192778587341309,0.0101,0.0093,0.0154,0.0103,0.0126,0.0267,0.0306,0.0081,0.0072,0.0785,0.1375
