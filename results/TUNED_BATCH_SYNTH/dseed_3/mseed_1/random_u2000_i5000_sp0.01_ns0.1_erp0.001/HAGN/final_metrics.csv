@@ -1,0 +1,2 @@
+Model,Dataset,Mode,dataset_type,seed,data_seed,total_epochs_trained,best_epoch,Best_Params,n_parameters,train_time_s,inference_time_s,best_valid_ndcg@10,recall@10,recall@20,ndcg@10,ndcg@20,mrr@10,mrr@20,precision@10,precision@20,hit@10,hit@20
+HAGN,random_u2000_i5000_sp0.01_ns0.1_erp0.001,TUNED,synth,1,3,59,48,"{'learning_rate': 0.005, 'n_layers': 4, 'reg_weight': 0.0001}",448132,19.593332767486572,0.06977987289428711,0.0337,0.0344,0.0543,0.0274,0.0347,0.0491,0.0538,0.013,0.0106,0.124,0.1965
