@@ -1,0 +1,2 @@
+Model,Dataset,Mode,dataset_type,seed,data_seed,total_epochs_trained,best_epoch,Best_Params,n_parameters,train_time_s,inference_time_s,best_valid_ndcg@10,recall@10,recall@20,ndcg@10,ndcg@20,mrr@10,mrr@20,precision@10,precision@20,hit@10,hit@20
+ASLGCN,partial_alignment_u2000_i5000_sp0.003_ns0.1,TUNED,synth,123,2,142,131,"{'learning_rate': 0.005, 'n_layers': 3, 'reg_weight': 0.001, 'social_layers': 1}",447553,42.12384581565857,2.463449478149414,0.4424,0.6184,0.6959,0.476,0.4977,0.46,0.4654,0.0759,0.0438,0.7024,0.7799
