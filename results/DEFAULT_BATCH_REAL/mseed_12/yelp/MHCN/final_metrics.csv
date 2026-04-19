@@ -1,0 +1,2 @@
+Model,Dataset,Mode,dataset_type,seed,total_epochs_trained,best_epoch,n_parameters,train_time_s,inference_time_s,best_valid_ndcg@10,recall@10,recall@20,ndcg@10,ndcg@20,mrr@10,mrr@20,precision@10,precision@20,hit@10,hit@20
+MHCN,yelp,DEFAULT,real,12,48,37,451264,45.60431170463562,0.10924863815307617,0.3276,0.4564,0.5543,0.3506,0.3799,0.391,0.3982,0.0836,0.0545,0.6565,0.76

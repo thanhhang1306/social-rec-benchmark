@@ -1,0 +1,2 @@
+Model,Dataset,Mode,dataset_type,seed,total_epochs_trained,best_epoch,n_parameters,train_time_s,inference_time_s,best_valid_ndcg@10,recall@10,recall@20,ndcg@10,ndcg@20,mrr@10,mrr@20,precision@10,precision@20,hit@10,hit@20
+HAGN,yelp,DEFAULT,real,12,500,498,417988,183.2399218082428,0.10680866241455078,0.0947,0.1411,0.2114,0.0935,0.1142,0.1138,0.1213,0.0311,0.0242,0.2614,0.3707
