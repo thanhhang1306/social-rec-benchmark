@@ -1,0 +1,9 @@
+dseed_1:mseed_1/contrarian_u2000_i5000_sp0.02_ns0.2
+dseed_1:mseed_12/contrarian_u2000_i5000_sp0.02_ns0.2
+dseed_1:mseed_123/contrarian_u2000_i5000_sp0.02_ns0.2
+dseed_2:mseed_1/contrarian_u2000_i5000_sp0.02_ns0.2
+dseed_2:mseed_12/contrarian_u2000_i5000_sp0.02_ns0.2
+dseed_2:mseed_123/contrarian_u2000_i5000_sp0.02_ns0.2
+dseed_3:mseed_1/contrarian_u2000_i5000_sp0.02_ns0.2
+dseed_3:mseed_12/contrarian_u2000_i5000_sp0.02_ns0.2
+dseed_3:mseed_123/contrarian_u2000_i5000_sp0.02_ns0.2
